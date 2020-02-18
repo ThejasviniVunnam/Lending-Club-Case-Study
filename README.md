@@ -20,6 +20,7 @@ In this case study, i am using EDA to understand how consumer attributes and loa
 
 
 When a person applies for a loan, there are two types of decisions that could be taken by the company:
+<br>
   1.Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
        1.Fully paid: Applicant has fully paid the loan (the principal and the interest rate)
        2.Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. 
